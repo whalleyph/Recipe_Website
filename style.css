@@ -2,3 +2,7 @@ body {
     background: yellow;
     padding: 2rem;
 }
+
+#spaghetti-title {
+    color: red;
+}
